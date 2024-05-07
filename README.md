@@ -1,1 +1,1 @@
-# simava
+# simava sözcük yaratma biçimi
